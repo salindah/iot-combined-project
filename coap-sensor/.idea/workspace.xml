@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="708f79da-2817-4a44-b4e3-0d354ca8242d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mFK295k9swycxlrciCXnE5hSFW" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SensorServer">
+    <configuration name="HumiditySensorServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sensor.server.HumiditySensorServer" />
+      <module name="coap-sensor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sensor.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SensorServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sensor.server.SensorServer" />
+      <module name="coap-sensor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sensor.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SensorServer" />
+        <item itemvalue="Application.HumiditySensorServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="708f79da-2817-4a44-b4e3-0d354ca8242d" name="Default Changelist" comment="" />
+      <created>1609083689601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609083689601</updated>
+      <workItem from="1609083694101" duration="1920000" />
+      <workItem from="1609169517994" duration="658000" />
+      <workItem from="1609170767215" duration="225000" />
+      <workItem from="1609175489822" duration="4534000" />
+      <workItem from="1609340778119" duration="327000" />
+      <workItem from="1609342324565" duration="868000" />
+      <workItem from="1609367176661" duration="76000" />
+      <workItem from="1609367338269" duration="999000" />
+      <workItem from="1609493218837" duration="1864000" />
+      <workItem from="1609544390457" duration="284000" />
+      <workItem from="1609583913683" duration="749000" />
+      <workItem from="1609585184030" duration="3749000" />
+      <workItem from="1609666108276" duration="10485000" />
+      <workItem from="1609715106969" duration="1438000" />
+      <workItem from="1609759346793" duration="542000" />
+      <workItem from="1609772511222" duration="7168000" />
+      <workItem from="1610376057442" duration="906000" />
+      <workItem from="1610381266370" duration="2305000" />
+      <workItem from="1610876636838" duration="794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sensor/server/HumidityResource.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sensor/server/HumidityResource.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
